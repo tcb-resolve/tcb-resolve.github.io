@@ -17,7 +17,7 @@ The scan was executed on 2023-05-10.
 ### original resolution
 
 <pre>
-[&nbsp;39M]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/inputlist.zst">inputlist.zst</a><br>
+[&nbsp;39M]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/inputlist.zst">inputlist.zst</a>
 </pre>
 
 
@@ -25,10 +25,10 @@ The scan was executed on 2023-05-10.
 Used as input for speedbag run #1 and speedbag run #2.
 
 <pre>
-[2.0M]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/original/resolveout/nameserver.csv.zst">nameserver.csv.zst</a><br>
-[3.2G]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/original/resolveout/queries.csv.zst">queries.csv.zst</a><br>
-[4.0G]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/original/resolveout/queries.embedded-json-data.csv.zst">queries.embedded-json-data.csv.zst</a><br>
-[3.7G]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/original/resolveout/results.zip">results.zip</a><br>
+[2.0M]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/original/resolveout/nameserver.csv.zst">nameserver.csv.zst</a>
+[3.2G]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/original/resolveout/queries.csv.zst">queries.csv.zst</a>
+[4.0G]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/original/resolveout/queries.embedded-json-data.csv.zst">queries.embedded-json-data.csv.zst</a>
+[3.7G]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/original/resolveout/results.zip">results.zip</a>
 </pre>
 
 
@@ -38,19 +38,19 @@ Used as input for speedbag run #1 and speedbag run #2.
 Used as input for speedbag run #3.
 
 <pre>
-[2.0M]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run1/resolveout/nameserver.csv.zst">nameserver.csv.zst</a><br>
-[3.3G]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run1/resolveout/queries.csv.zst">queries.csv.zst</a><br>
-[4.1G]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run1/resolveout/queries.embedded-json-data.csv.zst">queries.embedded-json-data.csv.zst</a><br>
-[3.9G]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run1/resolveout/results.zip">results.zip</a><br>
+[2.0M]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run1/resolveout/nameserver.csv.zst">nameserver.csv.zst</a>
+[3.3G]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run1/resolveout/queries.csv.zst">queries.csv.zst</a>
+[4.1G]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run1/resolveout/queries.embedded-json-data.csv.zst">queries.embedded-json-data.csv.zst</a>
+[3.9G]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run1/resolveout/results.zip">results.zip</a>
 </pre>
 
 
 #### speedbag output
 
 <pre>
-[2.0M]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run1/speedbagout/nameserver.csv.zst">nameserver.csv.zst</a><br>
-[&nbsp;55k]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run1/speedbagout/unknownquery.csv.zst">unknownquery.csv.zst</a><br>
-[&nbsp;62k]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run1/speedbagout/unqueried.csv.zst">unqueried.csv.zst</a><br>
+[2.0M]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run1/speedbagout/nameserver.csv.zst">nameserver.csv.zst</a>
+[&nbsp;55k]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run1/speedbagout/unknownquery.csv.zst">unknownquery.csv.zst</a>
+[&nbsp;62k]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run1/speedbagout/unqueried.csv.zst">unqueried.csv.zst</a>
 </pre>
 
 
@@ -59,9 +59,9 @@ Used as input for speedbag run #3.
 #### speedbag output
 
 <pre>
-[2.0M]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run2/speedbagout/nameserver.csv.zst">nameserver.csv.zst</a><br>
-[&nbsp;55k]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run2/speedbagout/unknownquery.csv.zst">unknownquery.csv.zst</a><br>
-[&nbsp;62k]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run2/speedbagout/unqueried.csv.zst">unqueried.csv.zst</a><br>
+[2.0M]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run2/speedbagout/nameserver.csv.zst">nameserver.csv.zst</a>
+[&nbsp;55k]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run2/speedbagout/unknownquery.csv.zst">unknownquery.csv.zst</a>
+[&nbsp;62k]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run2/speedbagout/unqueried.csv.zst">unqueried.csv.zst</a>
 </pre>
 
 
@@ -70,9 +70,9 @@ Used as input for speedbag run #3.
 #### speedbag output
 
 <pre>
-[2.0M]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run3/speedbagout/nameserver.csv.zst">nameserver.csv.zst</a><br>
-[&nbsp;&nbsp;61]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run3/speedbagout/unknownquery.csv.zst">unknownquery.csv.zst</a><br>
-[&nbsp;&nbsp;90]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run3/speedbagout/unqueried.csv.zst">unqueried.csv.zst</a><br>
+[2.0M]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run3/speedbagout/nameserver.csv.zst">nameserver.csv.zst</a>
+[&nbsp;&nbsp;61]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run3/speedbagout/unknownquery.csv.zst">unknownquery.csv.zst</a>
+[&nbsp;&nbsp;90]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run3/speedbagout/unqueried.csv.zst">unqueried.csv.zst</a>
 </pre>
 
 
