@@ -15,23 +15,27 @@ The resolver issued internal queries for address resolution (`A`, `AAAA`) and zo
 The scan was executed on 2023-05-10.
 
 ### original resolution
-[input](https://alcatraz.net.in.tum.de/naab-anrw2023/inputlist.zst)
+
+<html>
+[&nbsp;39M]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/inputlist.zst">inputlist.zst</a><br>
+
 
 #### resolver output
 Used as input for speedbag run #1 and speedbag run #2.
 
-<p>
+<html>
 [2.0M]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/original/resolveout/nameserver.csv.zst">nameserver.csv.zst</a><br>
 [3.2G]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/original/resolveout/queries.csv.zst">queries.csv.zst</a><br>
 [4.0G]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/original/resolveout/queries.embedded-json-data.csv.zst">queries.embedded-json-data.csv.zst</a><br>
 [3.7G]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/original/resolveout/results.zip">results.zip</a><br>
+
 
 ### speedbag run #1
 
 #### resolver output
 Used as input for speedbag run #3.
 
-<p>
+<html>
 [2.0M]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run1/resolveout/nameserver.csv.zst">nameserver.csv.zst</a><br>
 [3.3G]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run1/resolveout/queries.csv.zst">queries.csv.zst</a><br>
 [4.1G]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run1/resolveout/queries.embedded-json-data.csv.zst">queries.embedded-json-data.csv.zst</a><br>
@@ -40,28 +44,31 @@ Used as input for speedbag run #3.
 
 #### speedbag output
 
-<p>
+<html>
 [2.0M]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run1/speedbagout/nameserver.csv.zst">nameserver.csv.zst</a><br>
 [&nbsp;55k]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run1/speedbagout/unknownquery.csv.zst">unknownquery.csv.zst</a><br>
 [&nbsp;62k]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run1/speedbagout/unqueried.csv.zst">unqueried.csv.zst</a><br>
+
 
 ### speedbag run #2
 
 #### speedbag output
 
-<p>
+<html>
 [2.0M]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run2/speedbagout/nameserver.csv.zst">nameserver.csv.zst</a><br>
 [&nbsp;55k]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run2/speedbagout/unknownquery.csv.zst">unknownquery.csv.zst</a><br>
 [&nbsp;62k]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run2/speedbagout/unqueried.csv.zst">unqueried.csv.zst</a><br>
+
 
 ### speedbag run #3
 
 #### speedbag output
 
-<p>
+<html>
 [2.0M]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run3/speedbagout/nameserver.csv.zst">nameserver.csv.zst</a><br>
 [&nbsp;&nbsp;61]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run3/speedbagout/unknownquery.csv.zst">unknownquery.csv.zst</a><br>
 [&nbsp;&nbsp;90]&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alcatraz.net.in.tum.de/naab-anrw2023/speedbag-run3/speedbagout/unqueried.csv.zst">unqueried.csv.zst</a><br>
+
 
 ## Data Format
 
@@ -114,7 +121,7 @@ Each individual exchange is stored with a 2 byte length prefix (i.e. TCP DNS exc
 Contains name server statistics as seen by `speedbag`.
 
 #### unknownquery.csv.zst
-List of <em>unknown</em> queries, i.e. queries speedbag received but did not have an original answer to.
+List of _unknown_ queries, i.e. queries `speedbag` received but did not have an original answer to.
 
 #### unqueried.csv.zst
-List of <em>unqueried</em> queries, i.e. queries `speedbag` knows but were not asked in this run.
+List of _unqueried_ queries, i.e. queries `speedbag` knows but were not asked in this run.
