@@ -1,6 +1,6 @@
 # Gotta Query ’Em All, Again! Repeatable Name Resolution with Full Dependency Provenance
 
-Work in progress
+Please use the ANRW reference: Johannes Naab, Patrick Sattler, Johannes Zirngibl, Stephan Günther, and Georg Carle. 2023. Gotta Query ’Em All, Again! Repeatable Name Resolution with Full Dependency Provenance. In Applied Networking Research Workshop (ANRW ’23), July 22–28, 2023, San Francisco, CA, USA.
 
 ## Dataset
 
